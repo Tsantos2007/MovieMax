@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(rgb(38, 36, 56), rgb(25, 24, 37));
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.imglogonav {
+    width: 13.75%;
+    height: 3.325%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3.5%;
+    padding-bottom: 5.5%;
+    
+}
+.imgheaderone {
+    width:41.6%;
+    height: 17%;
+    /*margin-top: 10.84%;*/
+    border-radius: 10px;
+    box-shadow:0px 10px 20px rgba(37, 37, 37, 0.493);
+
+
+	transform: scale(1);
+	transition: .5s ease-in;
+}
+.imgheaderone:hover {
+	transform: scale(1.05);
+}
+
+.imghed1 {
+    margin-left: 4.9%;
+    margin-right: 2.45%;
+}
+
+.imghed2 {
+    margin-right: 4.9;
+}
+
+.imgheadertwo {
+    width: 85.3%;
+    height: 17%;
+    margin-right:7.15%;
+    margin-left:7.35%;
+    margin-top:2.45%;
+    border-radius: 10px;
+    box-shadow:0px 10px 20px rgba(37, 37, 37, 0.493);
+    transform: scale(1);
+	transition: .5s ease-in;
+}
+
+.imgheadertwo:hover {
+    transform: scale(1.04)
+}
+
+
+
+.collectionText {
+    font-size: 26px;
+    color:whitesmoke;
+    margin-top: 2.5%;
+    margin-left: 7.5%;
+    margin-bottom: 2.5%;
+}
+
+.img1{
+    width:20.25%;
+    height:27%;
+    margin-left: 5%;
+    margin-right:1.5%;
+
+}
+
+.img2 {
+    width:20.25%;
+    height: 27%;
+    margin-right:1.5%;
+    margin-left:1.5%
+}
+
+.img4 {
+    width:20.25%;
+    height:27%;
+    margin-right:1.5%;
+    margin-left: 1%;
+}
+
+.imgsectionex:hover {
+    transform: scale(1.07)
+}
+
+.imgsectionex {
+    border-radius: 10px;
+    box-shadow:0px 10px 20px rgba(37, 37, 37, 0.493);
+    transform: scale(1);
+	transition: .5s ease-in;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.contact {
+    padding:5em;
+}
